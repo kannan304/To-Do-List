@@ -8,8 +8,8 @@ This project is a basic Todo List application that allows users to create, read,
 
 Features:
 
-Create new tasks with a title and description
-View all tasks in a list
-Mark tasks as completed
-Edit existing tasks
-Delete tasks
+=>Create new tasks with a title and description
+=>View all tasks in a list
+=>Mark tasks as completed
+=>Edit existing tasks
+=>Delete tasks
