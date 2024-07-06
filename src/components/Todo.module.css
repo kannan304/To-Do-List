@@ -1,0 +1,58 @@
+
+@media only screen and (max-width: 480px) {
+    .ToDo {
+       width: 100%;
+       padding: 20px;
+     }
+    .flex {
+       flex-direction: column;
+     }
+    .TodoItem {
+       gap: 10px;
+     }
+    .TodoItem img {
+       width: 20px;
+     }
+    .TodoItem p {
+       font-size: 14px;
+     }
+   }
+   
+   @media only screen and (max-width: 768px) {
+    .ToDo {
+       width: 80%;
+       padding: 30px;
+     }
+    .flex {
+       flex-direction: row;
+     }
+    .TodoItem {
+       gap: 20px;
+     }
+    .TodoItem img {
+       width: 30px;
+     }
+    .TodoItem p {
+       font-size: 16px;
+     }
+   }
+   
+
+   @media only screen and (min-width: 1024px) {
+    .ToDo {
+       width: 60%;
+       padding: 40px;
+     }
+    .flex {
+       flex-direction: row;
+     }
+    .TodoItem {
+       gap: 30px;
+     }
+    .TodoItem img {
+       width: 40px;
+     }
+    .TodoItem p {
+       font-size: 18px;
+     }
+   }
